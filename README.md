@@ -7,7 +7,7 @@ GPU Used for Testing: NVIDIA T4 (And RTX 3090 for BF16 correctness for challenge
 ## Solutions
 ### Challenge A
 ✅ Single Triton Kernel  
-✅ Speed >= 1.15  (1.40x speedup achieved)
+✅ Speed >= 1.15  (1.40x speedup achieved)  
 ✅ Kernel works in torch.compile  
 ✅ Custom asm works (But I did not need to use it. Of course it could have helped speedup even more).  
 ✅ Uses cache eviction  
