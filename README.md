@@ -9,8 +9,6 @@ I have one notebook that has the solutions for challenge A and challenge E.
 
 [▶️ COLAB NOTEBOOK](https://colab.research.google.com/drive/1ZV3Ll4vU92quNQDnwPAnVXX11bGP1FgU?usp=sharing)
 
-[▶️ GITHUB LINK OF THE SAME NOTEBOOK](https://github.com/RohitNagraj/UnslothPuzzles/blob/main/Rohit_Unsloth_Puzzles.ipynb)
-
 ## Solutions
 ### Challenge A
 ✅ Single Triton Kernel  
