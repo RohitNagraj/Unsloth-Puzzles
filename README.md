@@ -22,8 +22,6 @@ GPU Used for Testing: NVIDIA T4 (And RTX 3090 for BF16 correctness for challenge
 ✅ Llama 3.2 1B training loss values match across all steps
 ❌ Works with GRPO Loss kernel (not tested)
 
-![Llama 3.2 1B Training Loss Curves](resources/q5/llama32_1b_loss_curve.png "Llama 3.2 1B Training Loss Curves")
-
 ### Challenge B
 
 ❌ Unsuccessful Attempt
