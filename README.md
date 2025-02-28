@@ -19,7 +19,7 @@ GPU Used for Testing: NVIDIA T4 (And RTX 3090 for BF16 correctness for challenge
 ✅ Show cross-entropy loss works  
 ✅ Show other loss functions works  
 ✅ Allow dynamic chunk sizes  
-✅ Llama 3.2 1B training loss values match across all steps
+✅ Llama 3.2 1B training loss values match across all steps  
 ❌ Works with GRPO Loss kernel (not tested)
 
 ### Challenge B
