@@ -1,8 +1,8 @@
 import torch
 import torch.nn as nn
 
-from q5_efficient_kld import MemoryEfficientLinear, transformation_function
-from q5_standard import standard_forward
+from q5.gradient_checkpoint import MemoryEfficientLinear, transformation_function
+from q5.reference import standard_forward
 
 device = 'cuda'
 
