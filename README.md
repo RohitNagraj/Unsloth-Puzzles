@@ -4,11 +4,6 @@ Name: Rohit Nagraj
 
 GPU Used for Testing: NVIDIA T4 (And RTX 3090 for BF16 correctness for challenge A)
 
-## Submission
-I have one notebook that has the solutions for challenge A and challenge E.
-
-[▶️ COLAB NOTEBOOK](https://colab.research.google.com/drive/1ZV3Ll4vU92quNQDnwPAnVXX11bGP1FgU?usp=sharing)
-
 ## Solutions
 ### Challenge A
 ✅ Single Triton Kernel  
